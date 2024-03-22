@@ -1,6 +1,6 @@
 This is a script in python that autopnw the HTB machine Enterprise
 
-The librarys I have used are the pwntools library and the time library
+The libraries I have used are the pwntools library and the time library
 
 This script exploit the final part of the machine, the BoF, using the Ret3libc tecnique to get a shell as root
 
